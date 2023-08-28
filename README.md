@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,world!+🌎+Welcome+to+my+GitHub!)](https://git.io;typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,world!🌎+Welcome+to+my+GitHub!)](https://git.io;typing-svg)
 ## About me:
 - 👋 currently studying Systems Analysis and Development at Faculdade SENAC PE;
 - ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
@@ -18,14 +18,14 @@
     <img src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white'>
     <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
     <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white'>
-    <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>
-   
+    <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>      
+  </div>
 </div>
-  
+
 <div  align="start"> 
-  <div style="display: inline_block">
-    <h2 align="start">Social Media:</h2> 
-  <a href = "mailto:carloscampos.bn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devcarloscampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>  
+    <div style="display: inline_block">
+        <h2 align="start">Social Media:</h2> 
+      <a href = "mailto:carloscampos.bn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/devcarloscampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </div>  
 </div>
