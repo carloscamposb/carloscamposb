@@ -1,5 +1,3 @@
-## Hello, World!🌎
-
 ## About me:
 - 👋 currently studying Systems Analysis and Development at Faculdade SENAC PE;
 - ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
