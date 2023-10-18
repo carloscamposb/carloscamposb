@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=677bbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,world!🌎+Welcome+to+my+GitHub!)](https://git.io;typing-svg)
+Hello,world!🌎
 ## About me:
 - 👋 currently studying Systems Analysis and Development at Faculdade SENAC PE;
 - ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
