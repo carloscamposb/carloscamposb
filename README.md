@@ -1,7 +1,8 @@
 ## About me:
-- 👋 currently studying Systems Analysis and Development at Faculdade SENAC PE;
+- 👋 Currently studying Systems Analysis and Development at Faculdade SENAC PE;
 - ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
 - 📌 I started programming in 2023.1 with JavaScript and introduction to SQL;
+- 🏆 I want to be a web developer, creating accessible, intuitive, creative, and responsive web pages.
     
 <div align="center">  
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carloscamposb&show_icons=true&title_color=677bbf&icon_color=4c5f9e&text_color=4c5f9e&bg_color=0d1117&hide_border=true&theme=tokyonight">  
