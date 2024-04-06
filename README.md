@@ -7,20 +7,20 @@
 <div align="center">  
   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carloscamposb&show_icons=true&title_color=677bbf&icon_color=4c5f9e&text_color=4c5f9e&bg_color=0d1117&hide_border=true&theme=tokyonight">  
    <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carloscamposb&title_color=677bbf&text_color=4c5f9e&bg_color=0d1117&theme=tokyonight&hide_border=true&layout=compact">
-        <img align="right" height="40%" width="30%" alt="coding-time" src="https://cdn.dribbble.com/users/1979051/screenshots/4603049/keyboard_dri.gif">
+        
 </div>
 
 <div  align="center"> 
   <div style="display: inline_block">
          <br><br>
     <h1 align="center"> Technologies:</h1>
-    <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 <!--     <img src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white'>  -->
-    <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'>
-     <img src= 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
+<!--     <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'> -->
     <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white'>
+    <img src= 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
     <img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'>      
+       <img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
     <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'>
     <img src='https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white'>  
     <img src='https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white'>  
