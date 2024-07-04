@@ -6,8 +6,9 @@
     
 <div align="center">  
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carloscamposb&size_weight=0.5&count_weight=0.5&theme=tokyonight'>
-<img src='https://github.com/carloscamposb/carloscamposb/assets/108171029/335189db-13a6-4581-bb93-93c535c5b30e'>  
+<img src='https://github.com/carloscamposb/carloscamposb/assets/108171029/02119803-6acf-4873-bec0-c3864802e1e8'>  
 </div>
+
 
 
 
