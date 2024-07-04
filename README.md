@@ -1,14 +1,16 @@
 ## About me:
-- 👋 Currently studying Systems Analysis and Development at Faculdade SENAC PE;
-- ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
-- 📌 I started programming in 2023.1 with JavaScript;
-- 🏆 I want to be a mobile developer, creating accessible, intuitive, creative, and functional apps to socity.
+ #### 👋 Currently studying Systems Analysis and Development at Faculdade SENAC PE;
+ #### ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
+ #### 📌 I started programming in 2023.1 with JavaScript;
+ #### 🏆 I want to be a mobile developer, creating accessible, intuitive, creative, and functional apps to socity.
     
 <div align="center">  
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carloscamposb&show_icons=true&title_color=677bbf&icon_color=4c5f9e&text_color=4c5f9e&bg_color=0d1117&hide_border=true&theme=tokyonight">  
-   <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carloscamposb&title_color=677bbf&text_color=4c5f9e&bg_color=0d1117&theme=tokyonight&hide_border=true&layout=compact">
-        
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carloscamposb&size_weight=0.5&count_weight=0.5&theme=tokyonight'>
+<img src='https://github.com/carloscamposb/carloscamposb/assets/108171029/335189db-13a6-4581-bb93-93c535c5b30e'>  
 </div>
+
+
+
 
 <div  align="center"> 
   <div style="display: inline_block">
