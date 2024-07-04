@@ -13,10 +13,11 @@
 
 
 
-<div  align="center"> 
+<div> 
   <div style="display: inline_block">
          <br><br>
-    <h1 align="center"> Technologies:</h1>
+    <h2> Technologies:</h2>
+   <div >
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
 <!--     <img src= 'https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'> -->
 <!--     <img src= 'https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)'> -->
@@ -30,7 +31,8 @@
     <img src='https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white'>
     <img src='https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white'>  
     <img src='https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white'>  
-  </div>
+   </div>
+   </div>
 </div>
 
 <div  align="start"> 
