@@ -1,12 +1,13 @@
 ## About me:
+
  #### 👋 Currently studying Systems Analysis and Development at Faculdade SENAC PE;
  #### ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
  #### 📌 I started programming in 2023.1 with JavaScript;
- #### 🏆 I want to be a mobile developer, creating accessible, intuitive, creative, and functional apps to socity.
-    
+ #### 🏆 I want to be a mobile developer, creating accessible, intuitive, creative, and functional apps to socity.   
+
+
 <div align="center">  
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=carloscamposb&size_weight=0.5&count_weight=0.5&theme=tokyonight'>
-<img src='https://github.com/carloscamposb/carloscamposb/assets/108171029/02119803-6acf-4873-bec0-c3864802e1e8'>  
+
 </div>
 
 
@@ -17,12 +18,12 @@
   <div style="display: inline_block">
          <br><br>
     <h2> Technologies:</h2>
-   <div >
+   <div>
+    <a>
+    <img height=200 align="center"  src='https://github-readme-stats.vercel.app/api/top-langs/?username=carloscamposb&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=compact'> 
+    </a>
+    <br>
     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-<!--     <img src= 'https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'> -->
-<!--     <img src= 'https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)'> -->
-<!--     <img src='https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white'>  -->
-<!--     <img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'> -->
     <img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white'>
     <img src= 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
       <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'>
