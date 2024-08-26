@@ -2,17 +2,11 @@
 
  #### 👋 Currently studying Systems Analysis and Development at Faculdade SENAC PE;
  #### ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
- #### 📌 I started programming in 2023.1 with JavaScript;
- #### 🏆 I want to be a mobile developer, creating accessible, intuitive, creative, and functional apps to socity.   
 
-
+ 
 <div align="center">  
 
 </div>
-
-
-
-
 
 <div> 
   <div style="display: inline_block">
