@@ -1,11 +1,14 @@
-## About me:
+## Olá pessoal!
 
- #### 👋 Currently studying Systems Analysis and Development at Faculdade SENAC PE;
- #### ☕ I like painting in watercolor, reading books, watching series and coding in my free time;
+#### Sobre mim:
+
+ #### ✏️ Estudante da Faculdade Senac Recife-PE, Brasil;
+ #### ✨ Eu amo assistir série, ler livros de fantasia e comer sushi;
+ #### 🎲 Tenho como objetivo trabalhar na área de dados 
 
   <div style="display: inline_block">
          <br><br>
-    <h2> Technologies:</h2>
+    <h2> Tecnologias:</h2>
    <div>
     <br>
       <img src= 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'>
